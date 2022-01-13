@@ -11,3 +11,6 @@ Hello again!
 
 
 ![smile face](https://www.pinterest.com/pin/692921092647043942/)
+
+Link to lab report:
+[Lab Report 1](lab-report-1-week-2.md)
