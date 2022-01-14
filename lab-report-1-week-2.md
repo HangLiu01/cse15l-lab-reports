@@ -41,7 +41,9 @@ Replace the file name with the one you created.
 
 Enter the password and this is what you should see after move successfully. 
 > ![Image](whereami.png)
+
 ---
+
 ## **Step 5 - Setting an SSH Key**
 Using SSH keys, we do not need to enter the password every time we run `ssh` and `scp`.
 
@@ -58,6 +60,7 @@ Finally, log out and back to your local computer, and run the following code:
 > `scp /Users/**YOUR USERNAME**/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys`
 
 `REPLACE with your own user name and course-specific account.`
+
 This is what should look like: 
 > ![Image](uploadkey.png)
 
