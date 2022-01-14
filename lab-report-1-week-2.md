@@ -47,7 +47,8 @@ Enter the password and this is what you should see after move successfully.
 ## **Step 5 - Setting an SSH Key**
 Using SSH keys, we do not need to enter the password every time we run `ssh` and `scp`.
 
-First, run the following code on `your own computer`.
+First, run the following code on **YOUR OWN COMPUTER**
+
 > `ssh-keygen`
 
 This will generate a pair of keys and save it on your computer. It will also ask for the directories to store in. You can jut press enter to put it in a default set. Here is what should look like: 
@@ -59,7 +60,7 @@ Next, log on the remote server and run:
 Finally, log out and back to your local computer, and run the following code: 
 > `scp /Users/**YOUR USERNAME**/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys`
 
-`REPLACE with your own user name and course-specific account.`
+**REPLACE with your own user name and course-specific account.**
 
 This is what should look like: 
 > ![Image](uploadkey.png)
