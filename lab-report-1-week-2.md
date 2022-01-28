@@ -73,7 +73,11 @@ Now, you are able to log on ssh and use scp command without entering password.
 Now, you should be able to run command on your remote server by entering it after your `ssh` command. For example:
 > ![Image](example.png)
 
-You can also try to move files without login follow the similar code. 
+You can find that you do not need to log in the account any more. Here I just type `ssh` command first and enter the account, then end with the method we want to run. If you count, it only takes 36 key strokes, which sounds a lot but way less than log in the account. 
+
+Also, if you want to try other commands like `cd` or other within the `ls`. Yan just use the up arrow button, and delete your ending command. Then retype the new command you want to run. This only takes 8 keystrokes. 
+
+You can also try to move files without login follow the similar code!
 
 ---
 ## **The END**
