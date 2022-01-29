@@ -1,5 +1,5 @@
 # **_LAB REPORT 1_**
-# **How to get your course-specific account and some strategy** #
+# **How to get your course-specific account and some strategy**
 ## **Step 1 - Installing VScode**
 Visit VScode official website [https://code.visualstudio.com](https://code.visualstudio.com) to download and install. It provides several different versions. You should be able to find the one for your computer. Here is the screenshot you should see after you download and open it. 
 
