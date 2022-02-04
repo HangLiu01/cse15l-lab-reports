@@ -32,10 +32,11 @@ The link to the test file that lead to this change:
 This is the raw code what should look like: 
 > ![RawcodeTestFile](AJraw.png)
 
-This is waht looks like when it failed: 
-> ![Bug2](AJbug1.png)
+This is what looks like when it failed: 
+> ![Bug2](ajbreakfile.png)
+*_add the command line_
 
-We find that it is out of bound because the code doesn't know what to do if they did not find the brackets and parentheses. Therefore, Amamda added a if statement to so that it wwill try unless the code finds a parentheses in it. 
+We find that it is out of bound because the code doesn't know what to do if they did not find the brackets and parentheses. Therefore, Amamda added a if statement to so that it will try unless the code finds a parentheses in it. 
 
 ---
 ## **Third - Peter Zhong**
@@ -50,6 +51,7 @@ This is the raw code what should look like:
 > ![RawcodeTestFile](PZraw.png)
 
 This is waht looks like when it failed: 
-> ![Bug2](PZbug.png)
+> ![Bug2](pzbreakfile.png)
+*_add the command line_
 
 We find that it does not distinguish when there are multiple brackets and parentheses in the decription box of a image code in markdown. So it limits the code to strict it with the link only with `(` after a closed bracket. 
