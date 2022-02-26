@@ -17,3 +17,9 @@ Link to lab report1:
 
 Link to lab report2
 [Lab Report 2](LabReport2/lab-report-2-week-4.md)
+
+Link to lab report3
+[Lab Report 3](LabReport3/lab-report-3-week-6.md)
+
+Link to lab report4
+[Lab Report 4](LabReport4/lab-report-4-week-8.md)
