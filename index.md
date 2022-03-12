@@ -23,3 +23,6 @@ Link to lab report3
 
 Link to lab report4
 [Lab Report 4](LabReport4/lab-report-4-week-8.md)
+
+Link to lab report5
+[Lab Report 5](LabReport5/lab-report-5-week-10.md)
